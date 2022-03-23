@@ -7,7 +7,8 @@ local Translations = {
         no_access = 'Kein Zugriff auf diesen Befehl',
         company_too_poor = 'Dein Arbeitgeber ist pleite',
         item_not_exist = 'Gegenstand existiert nicht',
-        too_heavy = 'Inventar ist zu voll!'
+        too_heavy = 'Inventar ist zu voll!',
+        server_online = 'Server bereits online'
     },
     success = {},
     info = {
